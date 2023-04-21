@@ -1,0 +1,26 @@
+{
+  "name": "assignment_5",
+  "version": "1.0.0",
+  "description": "Assignment 5 API Testing",
+  "main": "math.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash01847/API_testing_Assignment_5.git"
+  },
+  "keywords": [
+    "Creating",
+    "Collection"
+  ],
+  "author": "Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash01847/API_testing_Assignment_5/issues"
+  },
+  "homepage": "https://github.com/akash01847/API_testing_Assignment_5#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
